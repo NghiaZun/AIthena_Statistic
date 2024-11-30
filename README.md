@@ -25,6 +25,7 @@ The Excel file contains statistical data related to query performance. Below is 
 ![Question and Anwser](images/QA_Test.png)
 ### Rank comparison of CLIP-based and Gen-AI image-based query
 ![Compare 1](images/MedalCLIP.png)
+
 ![Compare 2](images/medalgenAI.png)
 
 
