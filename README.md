@@ -24,9 +24,8 @@ The Excel file contains statistical data related to query performance. Below is 
 ### Question and Anwser using GPT4-o API
 ![Question and Anwser](images/QA_Test.png)
 ### Rank comparison of CLIP-based and Gen-AI image-based query
-![Compare 1](images/Medal_CLIP.png)
-
-![Compare 2](images/medal_genAI.png)
+![Compare 1](images/MedalCLIP.png)
+![Compare 2](images/medalgenAI.png)
 
 
 
