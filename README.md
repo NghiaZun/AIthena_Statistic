@@ -14,6 +14,9 @@ The Excel file contains statistical data related to query performance. Below is 
    - **R20**: Number of results in the rank range [11, 20].
    - **R50**: Number of results in the rank range [21, 50].
    - **R100**: Number of results in the rank range [51, 100].
+     
+## Achieved rank 1 in 3rd preliminary round
+![achieve](images/Rank_1_in_3rd_preliminary_round.png)
 
 ## Function experiments
 
