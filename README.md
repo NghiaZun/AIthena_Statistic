@@ -24,7 +24,7 @@ The Excel file contains statistical data related to query performance. Below is 
 ![Graphical User Interface](images/UI.drawio.png)
 ### OCR-based query
 ![OCR-based query](images/OCR.jpg)
-### Question and Anwser using GPT4-o API
+### Question and Anwser using GPT-4o API
 ![Question and Anwser](images/QA_Test.png)
 ### Rank comparison of CLIP-based and Gen-AI image-based query
 ![Compare 1](images/MedalCLIP.png)
