@@ -1,8 +1,6 @@
-# Performance Statistic
+# This repository provides an overview and evaluation of the performance statistics.
 
-This repository provides an overview and evaluation of the performance statistics.
-
-## File Overview
+## Performance Statistic
 
 The Excel file contains statistical data related to query performance. Below is a breakdown of the key columns and their descriptions:
 
@@ -16,4 +14,21 @@ The Excel file contains statistical data related to query performance. Below is 
    - **R20**: Number of results in the rank range [11, 20].
    - **R50**: Number of results in the rank range [21, 50].
    - **R100**: Number of results in the rank range [51, 100].
+
+## Function experiments
+
+### Full graphical user interface and simple query test
+![Graphical User Interface](images/UI.drawio.png)
+### OCR-based query
+![OCR-based query](images/OCR.jpg)
+### Question and Anwser using GPT4-o API
+![Question and Anwser](images/QA_Test.png)
+### Rank comparison of CLIP-based and Gen-AI image-based query
+![Compare 1](images/Medal CLIP.png)
+![Compare 2](images/medal genAI.png)
+
+
+
+
+
     
